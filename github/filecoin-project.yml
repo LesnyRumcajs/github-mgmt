@@ -347,6 +347,8 @@ repositories:
     teams:
       admin:
         - proofs-crate-owners
+      maintain:
+        - Forest
       push:
         - proofs-contributors
     visibility: public
